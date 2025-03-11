@@ -94,7 +94,7 @@ fun main  (){
         }
 
         else -> {
-
+            println("Esse número é inválido! Escolha um número de 1 a 7. ")
         }
 
     }
