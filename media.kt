@@ -12,11 +12,11 @@ fun main(){
     var numeroDois = readln().toDouble()
     print("Digite o terceiro número: ")
     var numeroTres = readln().toDouble()
-    print("Digite o primeiro número: ")
+    print("Digite o quarto número: ")
     var numeroQuatro = readln().toDouble()
-    print("Digite o segundo número: ")
+    print("Digite o quinto número: ")
     var numeroCinco = readln().toDouble()
-    print("Digite o terceiro número: ")
+    print("Digite o sexto número: ")
     var numeroSeis = readln().toDouble()
 
     soma = numeroUm + numeroDois + numeroTres + numeroQuatro + numeroCinco + numeroSeis
