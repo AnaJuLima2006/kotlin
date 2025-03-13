@@ -1,4 +1,4 @@
-//Hora de Codar Três, Exercício Dez!!
+//Hora de Codar Três, Exercício Onze!!
 //Escreva um programa para imprimir todas as tabuadas de 1 a N.
 //N será informado pelo usuário.
 
